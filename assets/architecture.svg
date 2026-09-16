@@ -1,0 +1,49 @@
+<svg width="1400" height="330" viewBox="0 0 1400 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="line" x1="140" y1="165" x2="1260" y2="165">
+    <stop stop-color="#22D3EE"/><stop offset=".35" stop-color="#8B5CF6"/><stop offset=".68" stop-color="#F472B6"/><stop offset="1" stop-color="#34D399"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .dash{stroke-dasharray:11 15;animation:dash 12s linear infinite}
+    .a{animation:pulse 3s ease-in-out infinite}
+    .b{animation:pulse 3s ease-in-out .7s infinite}
+    .c{animation:pulse 3s ease-in-out 1.4s infinite}
+    .d{animation:pulse 3s ease-in-out 2.1s infinite}
+    .packet{animation:move 8s ease-in-out infinite}
+    .packet2{animation:move 8s ease-in-out 2.7s infinite}
+    .packet3{animation:move 8s ease-in-out 5.3s infinite}
+    @keyframes dash{to{stroke-dashoffset:-280}}
+    @keyframes pulse{0%,100%{opacity:.5;transform:translateY(0)}50%{opacity:1;transform:translateY(-6px)}}
+    @keyframes move{0%{transform:translateX(0);opacity:0}10%{opacity:1}90%{opacity:1}100%{transform:translateX(1030px);opacity:0}}
+  </style>
+</defs>
+<rect width="1400" height="330" rx="28" fill="#070A12" stroke="#182238"/>
+<text x="72" y="62" fill="#64748B" font-size="15" font-family="ui-monospace,Menlo,monospace">SYSTEM ARCHITECTURE // PRODUCT FLOW</text>
+<path d="M180 168H1220" stroke="url(#line)" stroke-width="3" class="dash"/>
+
+<g class="a">
+  <rect x="100" y="112" width="190" height="112" rx="22" fill="#0B1220" stroke="#155E75"/>
+  <text x="195" y="156" text-anchor="middle" fill="#CFFAFE" font-size="22" font-family="Inter,Arial">FRONTEND</text>
+  <text x="195" y="186" text-anchor="middle" fill="#64748B" font-size="15" font-family="ui-monospace,Menlo,monospace">React · UX · State</text>
+</g>
+<g class="b">
+  <rect x="405" y="112" width="190" height="112" rx="22" fill="#0B1220" stroke="#6D28D9"/>
+  <text x="500" y="156" text-anchor="middle" fill="#EDE9FE" font-size="22" font-family="Inter,Arial">BACKEND</text>
+  <text x="500" y="186" text-anchor="middle" fill="#64748B" font-size="15" font-family="ui-monospace,Menlo,monospace">FastAPI · Node · APIs</text>
+</g>
+<g class="c">
+  <rect x="710" y="112" width="190" height="112" rx="22" fill="#0B1220" stroke="#BE185D"/>
+  <text x="805" y="156" text-anchor="middle" fill="#FCE7F3" font-size="22" font-family="Inter,Arial">DATA</text>
+  <text x="805" y="186" text-anchor="middle" fill="#64748B" font-size="15" font-family="ui-monospace,Menlo,monospace">SQL · Mongo · Vectors</text>
+</g>
+<g class="d">
+  <rect x="1015" y="112" width="190" height="112" rx="22" fill="#0B1220" stroke="#15803D"/>
+  <text x="1110" y="156" text-anchor="middle" fill="#DCFCE7" font-size="22" font-family="Inter,Arial">AI LAYER</text>
+  <text x="1110" y="186" text-anchor="middle" fill="#64748B" font-size="15" font-family="ui-monospace,Menlo,monospace">RAG · ML · LLMs</text>
+</g>
+
+<circle cx="182" cy="168" r="7" fill="#22D3EE" filter="url(#glow)" class="packet"/>
+<circle cx="182" cy="168" r="7" fill="#A78BFA" filter="url(#glow)" class="packet2"/>
+<circle cx="182" cy="168" r="7" fill="#34D399" filter="url(#glow)" class="packet3"/>
+</svg>
