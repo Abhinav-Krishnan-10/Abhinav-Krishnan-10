@@ -1,0 +1,22 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="180" rx="20" fill="#020617"/>
+<rect x="1" y="1" width="898" height="178" rx="19" fill="none" stroke="#155E75" stroke-width="2"/>
+<text x="40" y="58" font-family="monospace" font-size="22" fill="#22D3EE">
+  BUILD → LEARN → BREAK → REBUILD
+</text>
+<text x="40" y="103" font-family="monospace" font-size="18" fill="#94A3B8">
+  SAME PERSON.
+</text>
+<text x="40" y="135" font-family="monospace" font-size="28" font-weight="700" fill="#E6FAFF">
+  HIGHER IDEAS.
+</text>
+<rect x="40" y="150" width="10" height="18" fill="#22D3EE">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+<circle cx="785" cy="88" r="46" fill="none" stroke="#22D3EE" stroke-width="2" stroke-dasharray="14 10">
+  <animateTransform attributeName="transform" type="rotate" from="0 785 88" to="360 785 88" dur="8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="785" cy="88" r="26" fill="none" stroke="#38BDF8" stroke-width="2" stroke-dasharray="6 9">
+  <animateTransform attributeName="transform" type="rotate" from="360 785 88" to="0 785 88" dur="5s" repeatCount="indefinite"/>
+</circle>
+</svg>
