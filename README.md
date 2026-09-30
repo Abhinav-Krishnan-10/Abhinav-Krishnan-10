@@ -254,10 +254,13 @@ System integration
 
 # 📈 `CONTRIBUTION_FREQUENCY`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-Krishnan-10&bg_color=020617&color=67E8F9&line=22D3EE&point=F8FAFC&area=true&hide_border=true" width="96%"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-Krishnan-10&theme=github_dark"
+  width="96%"
+  alt="GitHub contribution summary"
+/>
 
 </div>
-
 ---
 
 ## `// build_log`
