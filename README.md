@@ -255,9 +255,8 @@ System integration
 # 📈 `CONTRIBUTION_FREQUENCY`
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-Krishnan-10&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-Krishnan-10&theme=tokyonight"
   width="96%"
-  alt="GitHub contribution summary"
 />
 
 </div>
