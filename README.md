@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    ABHINAV KRISHNAN // PROFILE                        -->
+<!--                  ABHINAV KRISHNAN // GITHUB PROFILE                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -7,26 +7,28 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0f172a,100:083344&text=ABHINAV%20KRISHNAN&fontColor=E6FAFF&fontSize=54&fontAlignY=38&desc=AI%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20ROBOTICS%20%E2%80%A2%20INTELLIGENT%20SYSTEMS&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <a href="https://github.com/Abhinav-Krishnan-10">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Building+systems+that+think+%E2%9C%A6;AI+%C3%97+Full-Stack+%C3%97+Robotics;Turning+ideas+into+working+products;Exploring+the+edge+between+software+%26+reality;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Ship+%E2%86%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Building+systems+that+think+%E2%9C%A6;AI+%C3%97+Full-Stack+%C3%97+Real-world+systems;Turning+ideas+into+working+products;Learning.+Building.+Shipping.+Repeating.;Software+that+escapes+the+screen." alt="Typing animation" />
 </a>
 
-<br>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Abhinav-Krishnan-10&label=PROFILE%20SIGNALS&color=0891B2&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Abhinav-Krishnan-10?style=for-the-badge&logo=github&label=NETWORK&labelColor=020617&color=0E7490" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-22D3EE?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/CURRENT_MODE-BUILDING-22D3EE?style=for-the-badge&labelColor=020617" />
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="./assets/banner.svg" width="95%" alt="Animated terminal banner"/>
-
+  <img src="./assets/banner.svg" width="96%" alt="Abhinav terminal banner"/>
 </div>
 
 ## `> identity.scan()`
+
+<table>
+<tr>
+<td width="57%" valign="top">
 
 ```yaml
 name: Abhinav Krishnan
@@ -34,58 +36,32 @@ name: Abhinav Krishnan
 role:
   - AI & Data Science Student
   - Full-Stack Developer
-  - Builder of Intelligent Systems
+  - Intelligent Systems Builder
 
-interests:
-  - Artificial Intelligence
-  - Machine Learning
+focus:
+  - Applied AI / Machine Learning
+  - RAG & Knowledge Systems
+  - Full-Stack Products
   - Computer Vision
-  - Full-Stack Development
+  - Edge AI / IoT
   - Robotics
-  - Edge AI
-  - IoT Systems
-  - Automation
 
-current_mode: BUILDING
-
-philosophy: >
-  Build things that solve real problems.
-  Break them.
-  Learn from them.
-  Rebuild them better.
-```
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `> signal.status()`
-
-```text
-AI / ML              █████████░  ACTIVE
-Full-Stack           █████████░  ACTIVE
-Computer Vision      ████████░░  BUILDING
-Robotics             ███████░░░  BUILDING
-IoT / Edge AI        ████████░░  BUILDING
-Open Source          ██████░░░░  EXPLORING
-Experimental Ideas   ██████████  ALWAYS
+philosophy: "Build → Break → Learn → Rebuild better."
 ```
 
 </td>
-
-<td width="50%" valign="top">
-
-### `> currently()`
+<td width="43%" valign="top">
 
 ```text
-🧠 Learning       Advanced AI systems
-⚙️ Building       Intelligent applications
-🌐 Creating       Full-stack products
-🛰️ Experimenting Edge + IoT systems
-🤖 Exploring      Robotics & autonomy
-🚀 Goal           Ship useful things
+STATUS
+─────────────────────────
+AI / ML            ACTIVE
+Full-Stack         ACTIVE
+RAG / LLM Apps     ACTIVE
+Computer Vision    BUILDING
+Edge / IoT         BUILDING
+Robotics           EXPLORING
+Open Source        GROWING
 ```
 
 </td>
@@ -98,77 +74,136 @@ Experimental Ideas   ██████████  ALWAYS
 
 # ⚡ TECH MATRIX
 
-### `languages.system`
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp&theme=dark" />
-
-### `frontend.interface`
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" />
-
-### `backend.core`
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
-
-### `data.layer`
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" />
-
-### `ai.engine`
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
-
-### `tools.environment`
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,react,nextjs,nodejs,express,fastapi,html,css,tailwind,mysql,postgres,mongodb,sqlite,git,github,docker,linux,pytorch,tensorflow,opencv,arduino&perline=13&theme=dark" />
 
 </div>
 
 ---
 
-# ◈ WHAT I BUILD
+# 🚀 `FEATURED_BUILDS`
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
+<a href="https://github.com/Abhinav-Krishnan-10/KnowledgeOS">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-Krishnan-10&repo=KnowledgeOS&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=38BDF8"/>
+</a>
+
+**KnowledgeOS**  
+Personal knowledge-management system with semantic search, RAG, local embeddings, OCR, pgvector and configurable LLM providers.
+
+`FastAPI` `PostgreSQL` `pgvector` `RAG` `OCR` `LLMs`
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/Abhinav-Krishnan-10/e-commerce">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-Krishnan-10&repo=e-commerce&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=38BDF8"/>
+</a>
+
+**Modern E-Commerce Platform**  
+Full-stack commerce platform with authentication, product management, admin tooling, PostgreSQL and Stripe checkout.
+
+`Next.js` `Prisma` `PostgreSQL` `Stripe` `Tailwind`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Abhinav-Krishnan-10/football_analytics">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-Krishnan-10&repo=football_analytics&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=38BDF8"/>
+</a>
+
+**Football Analytics**  
+An analytics-focused experimental project centered on extracting insight from football data and intelligent analysis workflows.
+
+`Analytics` `Data` `Experimentation`
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/Abhinav-Krishnan-10/FakeNews_predict">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav-Krishnan-10&repo=FakeNews_predict&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=38BDF8"/>
+</a>
+
+**Fake News Prediction**  
+Machine-learning project exploring text classification and predictive modeling for fake-news detection.
+
+`Machine Learning` `NLP` `Classification`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### `more.repositories()`
+
+<a href="https://github.com/Abhinav-Krishnan-10/Job_Assistant">
+<img src="https://img.shields.io/badge/Job_Assistant-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+<a href="https://github.com/Abhinav-Krishnan-10/Vector-based-Product-FAQ-Assistant">
+<img src="https://img.shields.io/badge/Vector_FAQ_Assistant-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+<a href="https://github.com/Abhinav-Krishnan-10/PatientRecords">
+<img src="https://img.shields.io/badge/PatientRecords-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+<a href="https://github.com/Abhinav-Krishnan-10/LeetCode">
+<img src="https://img.shields.io/badge/LeetCode-020617?style=for-the-badge&logo=leetcode&logoColor=22D3EE"/>
+</a>
+
+</div>
+
+---
+
+# ◈ `WHAT_I_BUILD`
+
+<table>
+<tr>
 <td width="25%" align="center">
 
 ### 🧠 AI SYSTEMS
-
+RAG applications  
 Machine learning  
 Computer vision  
-Inference pipelines  
-Automation
+Automation  
 
 </td>
 
 <td width="25%" align="center">
 
 ### 🌐 FULL-STACK
-
-Modern interfaces  
-Clean APIs  
+Product interfaces  
+APIs & backends  
 Dashboards  
-Realtime apps
+Realtime systems  
 
 </td>
 
 <td width="25%" align="center">
 
 ### 🛰️ EDGE + IoT
-
 ESP32  
 Sensors  
 MQTT  
-Realtime monitoring
+Local intelligence  
 
 </td>
 
 <td width="25%" align="center">
 
 ### 🤖 ROBOTICS
-
 Perception  
 Navigation  
 Autonomy  
-Hardware integration
+System integration  
 
 </td>
-
 </tr>
 </table>
 
@@ -178,9 +213,9 @@ Hardware integration
 
 # 🧊 `3D_CONTRIBUTION_WORLD`
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution graph" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="96%" alt="3D GitHub contribution graph"/>
 
-`Every block is another piece of the build log.`
+<sub>Every block is another piece of the build log.</sub>
 
 </div>
 
@@ -193,7 +228,7 @@ Hardware integration
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav-Krishnan-10/Abhinav-Krishnan-10/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav-Krishnan-10/Abhinav-Krishnan-10/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Abhinav-Krishnan-10/Abhinav-Krishnan-10/output/github-snake-dark.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Abhinav-Krishnan-10/Abhinav-Krishnan-10/output/github-snake-dark.svg">
 </picture>
 
 </div>
@@ -205,10 +240,9 @@ Hardware integration
 # 📡 `GITHUB_TELEMETRY`
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=Abhinav-Krishnan-10&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&icon_color=38BDF8&ring_color=22D3EE" />
-
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Krishnan-10&hide_border=true&background=020617&stroke=164E63&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
 
-<br>
+<br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Krishnan-10&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&langs_count=8" />
 
@@ -226,7 +260,7 @@ Hardware integration
 
 ---
 
-# `// build_log`
+## `// build_log`
 
 ```diff
 + 01  idea appears
@@ -242,59 +276,27 @@ Hardware integration
 
 ---
 
-# 🚀 PROJECT LAB
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│ PROJECT 01                                               │
-│ AI / ML SYSTEM                                           │
-│ Status: BUILDING                                         │
-├──────────────────────────────────────────────────────────┤
-│ Intelligent applications combining models, APIs,         │
-│ automation and practical problem-solving.                │
-└──────────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────────┐
-│ PROJECT 02                                               │
-│ EDGE + IoT SYSTEM                                        │
-│ Status: EXPERIMENTING                                    │
-├──────────────────────────────────────────────────────────┤
-│ Real-time sensing, ESP32, MQTT dashboards and            │
-│ intelligent local decision-making.                       │
-└──────────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────────┐
-│ PROJECT 03                                               │
-│ AUTONOMOUS ROBOTICS                                      │
-│ Status: PROTOTYPING                                      │
-├──────────────────────────────────────────────────────────┤
-│ Combining perception, navigation and physical systems.   │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
 <div align="center">
 
 # 🌌 `CURRENT_TRANSMISSION`
 
 > **I like projects where software escapes the screen and starts interacting with the real world.**
 
-<br>
+<br/>
 
 <a href="https://github.com/Abhinav-Krishnan-10?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 
 <a href="https://github.com/Abhinav-Krishnan-10">
 <img src="https://img.shields.io/badge/CONNECT%20ON%20GITHUB-020617?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="./assets/terminal-animation.svg" width="85%" alt="Animated build loop"/>
+<img src="./assets/terminal-animation.svg" width="86%" alt="Animated build loop"/>
 
-<br>
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:083344,45:0f172a,100:020617"/>
 
